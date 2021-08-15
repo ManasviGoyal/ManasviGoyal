@@ -37,7 +37,8 @@ I love learning new things and everything about Technology. I keep exploring new
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
 ![Data Structures](https://img.shields.io/badge/-Data_Structures-05122A?style=flat&logo=datas_tructures)&nbsp;
-![Object Oriented Programming](https://img.shields.io/badge/-Object_Oriented_Programming-05122A?style=flat&logo=oop)&nbsp;
+![Object Oriented Programming](https://img.shields.io/badge/-Object_Oriented_Programming-05122A?style=flat&logo=oop)\
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
 
 
 
