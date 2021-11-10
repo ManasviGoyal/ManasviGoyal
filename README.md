@@ -8,7 +8,7 @@ I love learning new things and everything about Technology. I keep exploring new
 - :deciduous_tree:	I actively work towards empowering women in technology and volunteer for various social causes
 - :telescope: I love reading about Space and Astronomy.
 - :clapper: I love watching movies and shows of every language in my free time.
-- 📫 Feel free to contact me if you want to work on some interesting projects or discuss about technology.
+- 📫 Feel free to contact me if you want to work on some interesting projects or to discuss about technology.
 - :e-mail: You can reach out to me via [LinkedIn](https://www.linkedin.com/in/manasvi-goyal-2809/) or Email me at mg.manasvi@gmail.com
 
 
