@@ -18,6 +18,7 @@ I love learning new things and everything about Technology. I keep exploring new
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=C%2B%2B&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -27,6 +28,7 @@ I love learning new things and everything about Technology. I keep exploring new
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=PowerBI)&nbsp;
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=Mathworks&logoColor=FF9800)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=Mathworks&logoColor=FF9800)
 ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-05122A?style=flat&logo=jupyter)\
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
