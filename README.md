@@ -1,13 +1,13 @@
 ### Hi there 👋
 ### Hello! I am [Manasvi](https://www.linkedin.com/in/manasvi-goyal-2809/) :innocent:
 
-I love learning new things and everything about Technology. I keep exploring new things. I am passionate to do something to solve real world problems using technology and make this world a better place. 
+I love learning new things and everything about Technology. I keep exploring new things. I am passionate about doing something to solve real-world problems using technology and making this world a better place. 
 
-- :mortar_board: I’m pursuing Production and Industrial Engineering from Delhi Technological University with a minor in Computer Science
-- 🌱 I’m currently fascinated with Software Development, Web Development, Cloud Computing, Open Source and Machine Learning.
+- :mortar_board: I pursued Production and Industrial Engineering from Delhi Technological University with a minor in Computer Science
+- 🌱 I’m fascinated with Software Development, Research, Open Source, and Machine Learning.
 - :deciduous_tree:	I actively work towards empowering women in technology and volunteer for various social causes
 - :telescope: I love reading about Space and Astronomy.
-- :clapper: I love watching movies and shows of every language in my free time.
+- :clapper: I love watching movies and shows in every language in my free time.
 - 📫 Feel free to contact me if you want to work on some interesting projects or to discuss about technology.
 - :e-mail: You can reach out to me via [LinkedIn](https://www.linkedin.com/in/manasvi-goyal-2809/) or Email me at mg.manasvi@gmail.com
 
@@ -24,7 +24,6 @@ I love learning new things and everything about Technology. I keep exploring new
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=PowerBI)&nbsp;
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=Mathworks&logoColor=FF9800)
@@ -37,7 +36,6 @@ I love learning new things and everything about Technology. I keep exploring new
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-05122A?style=flat&logo=scikit-learn)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
-![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
 ![Data Structures](https://img.shields.io/badge/-Data_Structures-05122A?style=flat&logo=data_structures)&nbsp;
 ![Algorithms](https://img.shields.io/badge/-Algorithms-05122A?style=flat&logo=algorithms)&nbsp;
 ![OperatingSystems](https://img.shields.io/badge/-Operating_Systems-05122A?style=flat&logo=operating_systems)&nbsp;
