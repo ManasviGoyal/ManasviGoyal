@@ -8,17 +8,18 @@ I love learning new things and everything about Technology. I keep exploring new
 - :deciduous_tree:	I actively work towards empowering women in technology and volunteer for various social causes
 - :telescope: I love reading about Space and Astronomy.
 - :clapper: I love watching movies and shows in every language in my free time.
-- 📫 Feel free to contact me if you want to work on some interesting projects or to discuss about technology.
+- 📫 Feel free to contact me if you want to work on some interesting projects or to discuss technology.
 - :e-mail: You can reach out to me via [LinkedIn](https://www.linkedin.com/in/manasvi-goyal-2809/) or Email me at mg.manasvi@gmail.com
 
 
 ### 🛠 &nbsp;Tech Stack
 
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=C%2B%2B&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
+![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=C%2B%2B)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=scala)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -29,13 +30,13 @@ I love learning new things and everything about Technology. I keep exploring new
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=Mathworks&logoColor=FF9800)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=Mathworks&logoColor=FF9800)
 ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-05122A?style=flat&logo=jupyter)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PlotLy](https://img.shields.io/badge/-PlotLy-05122A?style=flat&logo=plotly)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-05122A?style=flat&logo=microsoft-office)&nbsp;
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-05122A?style=flat&logo=scikit-learn)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;&nbsp;&nbsp;
 ![Data Structures](https://img.shields.io/badge/-Data_Structures-05122A?style=flat&logo=data_structures)&nbsp;
 ![Algorithms](https://img.shields.io/badge/-Algorithms-05122A?style=flat&logo=algorithms)&nbsp;
 ![OperatingSystems](https://img.shields.io/badge/-Operating_Systems-05122A?style=flat&logo=operating_systems)&nbsp;
