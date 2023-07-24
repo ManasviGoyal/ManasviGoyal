@@ -3,6 +3,10 @@
 
 I love learning new things and everything about Technology. I keep exploring new things. I am passionate about doing something to solve real-world problems using technology and making this world a better place. 
 
+<a target="_blank" align="center">
+  <img align="right" top="600" height="250" width="350" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true">
+</a>
+
 - :mortar_board: I pursued Production and Industrial Engineering from Delhi Technological University with a minor in Computer Science
 - 🌱 I’m fascinated with Software Development, Research, Open Source, and Machine Learning.
 - :deciduous_tree:	I actively work towards empowering women in technology and volunteer for various social causes
