@@ -77,6 +77,6 @@ I love learning new things and everything about Technology. I keep exploring new
   <img src="https://profile-counter.glitch.me/ManasviGoyal/count.svg" />
 </p>
 
-<div>
-  ![Snake animation](https://github.com/ManasviGoyal/ManasviGoyal/blob/output/github-contribution-grid-snake.svg)
-</div>
+<p align="center">
+  <img src="https://github.com/ManasviGoyal/ManasviGoyal/blob/output/github-contribution-grid-snake.svg"/>
+</p>
