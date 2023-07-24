@@ -80,6 +80,4 @@ I love learning new things and everything about Technology. I keep exploring new
   <img src="https://profile-counter.glitch.me/ManasviGoyal/count.svg" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/ManasviGoyal/ManasviGoyal/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+![Snake animation](https://github.com/ManasviGoyal/ManasviGoyal/blob/output/github-contribution-grid-snake.svg)
