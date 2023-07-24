@@ -65,10 +65,8 @@ I love learning new things and everything about Technology. I keep exploring new
 ### **Github Stats:**
 
 <p align="center">
-  <a href="https://github.com/ManasviGoyal">
-    <img align="center" height="205em" src="https://github-readme-stats.vercel.app/api?username=ManasviGoyal&count_private=true&theme=dark&show_icons=true" alt="ManasviGoyal" width="485"/>
-    <img align="center"height="202em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManasviGoyal&theme=dark&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ManasviGoyal" width="410"/>
-  </a>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ManasviGoyal&count_private=true&theme=dark&show_icons=true" alt="ManasviGoyal" width="410"/>
+  <img align="center"height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManasviGoyal&theme=dark&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ManasviGoyal" width="410"/>
 </p>
 
 </br>
