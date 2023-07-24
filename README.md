@@ -57,7 +57,7 @@ I love learning new things and everything about Technology. I keep exploring new
 
 ### **Github Streak:**
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=ManasviGoyal&line_height=40&theme=dark">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=ManasviGoyal&theme=dark&line_height=40">
 </p>
 
 ---
@@ -65,13 +65,18 @@ I love learning new things and everything about Technology. I keep exploring new
 ### **Github Stats:**
 
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ManasviGoyal&hide=stars&show_icons=true&line_height=48&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasviGoyal&count_private=true&line_height=40&theme=dark">
-
+  <a href="https://github.com/ManasviGoyal">
+    <img align="center" height="205em" src="https://github-readme-stats.vercel.app/api?username=ManasviGoyal&count_private=true&theme=dark&show_icons=true" alt="ManasviGoyal" width="485"/>
+    <img align="center"height="202em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManasviGoyal&theme=dark&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ManasviGoyal" width="410"/>
+  </a>
 </p>
-  
- <p align="center"> 
-  Visitors count<br>
+
+</br>
+<p align="center"> 
+  Visitors Count<br>
   <img src="https://profile-counter.glitch.me/ManasviGoyal/count.svg" />
 </p>
+
+<div>
+  ![Snake animation](https://github.com/ManasviGoyal/ManasviGoyal/blob/output/github-contribution-grid-snake.svg)
+</div>
