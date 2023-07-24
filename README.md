@@ -79,5 +79,3 @@ I love learning new things and everything about Technology. I keep exploring new
   Visitors Count<br>
   <img src="https://profile-counter.glitch.me/ManasviGoyal/count.svg" />
 </p>
-
-![Snake animation](https://github.com/ManasviGoyal/ManasviGoyal/blob/output/github-contribution-grid-snake.svg)
