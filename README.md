@@ -4,17 +4,16 @@
 I love learning new things and everything about Technology. I keep exploring new things. I am passionate about doing something to solve real-world problems using technology and making this world a better place. 
 
 <a target="_blank" align="center">
-  <img align="right" top="600" height="260" width="320" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true">
+  <img align="right" top="800" height="290" width="325" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true">
 </a>
 
 - :mortar_board: I pursued Production and Industrial Engineering from Delhi Technological University with a minor in Computer Science
+- 💻 I am currently working at CERN as a Research Software Engineer. Previously, I have interned at Princeton university, The University of Auckland, INSEAD, and EY.
 - 🌱 I’m fascinated with Software Development, Research, Open Source, and Machine Learning.
 - :deciduous_tree:	I actively work towards empowering women in technology and volunteer for various social causes
 - :telescope: I love reading about Space and Astronomy.
 - :clapper: I love watching movies and shows in every language in my free time.
 - 📫 Feel free to contact me if you want to work on some interesting projects or to discuss technology.
-- :e-mail: You can reach out to me via [LinkedIn](https://www.linkedin.com/in/manasvi-goyal-2809/) or Email me at mg.manasvi@gmail.com
-
 
 ### 🛠 &nbsp;Tech Stack
 
