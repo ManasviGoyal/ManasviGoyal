@@ -4,7 +4,7 @@
 I love learning new things and everything about Technology. I keep exploring new things. I am passionate about doing something to solve real-world problems using technology and making this world a better place. 
 
 <a target="_blank" align="center">
-  <img align="right" top="800" height="290" width="325" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true">
+  <img align="right" top="750" height="285" width="320" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true">
 </a>
 
 - :mortar_board: I pursued Production and Industrial Engineering from Delhi Technological University with a minor in Computer Science
