@@ -4,11 +4,11 @@
 I love learning new things and everything about Technology. I keep exploring new things. I am passionate about doing something to solve real-world problems using technology and making this world a better place. 
 
 <a target="_blank" align="center">
-  <img align="right" top="750" height="285" width="320" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true">
+  <img align="right" top="750" height="280" width="310" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true">
 </a>
 
 - :mortar_board: I pursued Production and Industrial Engineering from Delhi Technological University with a minor in Computer Science
-- 💻 I am currently working at CERN as a Research Software Engineer. Previously, I have interned at Princeton university, The University of Auckland, INSEAD, and EY.
+- 💻 I am currently working at CERN as a Research Software Engineer. Previously, I have interned at Princeton University, The University of Auckland, INSEAD, and EY.
 - 🌱 I’m fascinated with Software Development, Research, Open Source, and Machine Learning.
 - :deciduous_tree:	I actively work towards empowering women in technology and volunteer for various social causes
 - :telescope: I love reading about Space and Astronomy.
