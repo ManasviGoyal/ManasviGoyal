@@ -60,7 +60,7 @@ I love learning new things and everything about Technology. I keep exploring new
 
 ### **Github Streak:**
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=ManasviGoyal&theme=dark&line_height=40">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=ManasviGoyal&theme=dark&line_height=42">
 </p>
 
 ---
