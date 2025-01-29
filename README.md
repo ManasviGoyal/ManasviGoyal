@@ -7,8 +7,9 @@ I love learning new things and everything about Technology. I keep exploring new
   <img align="right" top="750" height="280" width="310" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true">
 </a>
 
+- 📚: I am a Masters student at Harvard University pursuing Computational Science and Engineering.
 - :mortar_board: I pursued Production and Industrial Engineering from Delhi Technological University with a minor in Computer Science
-- 💻 I am currently working at CERN as a Research Software Engineer. Previously, I have interned at Princeton University, The University of Auckland, INSEAD, and EY.
+- 💻 I worked at CERN as a Research Software Engineer. Previously, I have interned at Princeton University, The University of Auckland, INSEAD, and EY.
 - 🌱 I’m fascinated with Software Development, Research, Open Source, and Machine Learning.
 - :deciduous_tree:	I actively work towards empowering women in technology and volunteer for various social causes
 - :telescope: I love reading about Space and Astronomy.
@@ -21,6 +22,7 @@ I love learning new things and everything about Technology. I keep exploring new
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
 ![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=C%2B%2B)&nbsp;
+![CUDA Programming](https://img.shields.io/badge/-CUDA%20Programming-05122A?style=flat&logo=NVIDIA)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=scala)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -44,7 +46,6 @@ I love learning new things and everything about Technology. I keep exploring new
 ![Algorithms](https://img.shields.io/badge/-Algorithms-05122A?style=flat&logo=algorithms)&nbsp;
 ![OperatingSystems](https://img.shields.io/badge/-Operating_Systems-05122A?style=flat&logo=operating_systems)&nbsp;
 ![Object Oriented Programming](https://img.shields.io/badge/-Object_Oriented_Programming-05122A?style=flat&logo=oop)&nbsp;
-![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
 
 
 
